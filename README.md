@@ -1,5 +1,5 @@
 # Hackers Programs Cost Calculator
-![Hackers logo](https://static.wikia.nocookie.net/hackersthegame/images/9/90/Hackers_Title_1024.jpg/revision/latest/scale-to-width-down/840?cb=20160507070928)
+![Hackers logo](https://static.wikia.nocookie.net/hackersthegame/images/9/90/Hackers_Title_1024.jpg/revision/latest/scale-to-width-down/840?cb=20160507070928)  
 Streamlit App for calculating Hackers Program's Cost
 
 Link to app: [https://hackers-game-programs-cost-calculator.streamlit.app/](https://hackers-game-programs-cost-calculator.streamlit.app/)  
